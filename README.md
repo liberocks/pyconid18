@@ -1,4 +1,7 @@
-![](img/pycon_logo.png)
+<p align="center">
+  <img src="img/pycon_logo.png">
+</p>
+
 
 # Better Science Understanding with Sympy
 
@@ -34,4 +37,4 @@ jupyter notebook
 
 ## :email: Contact 
 
-Any correspondences can be done through my **telegram** account username : *@airminum*
+Any correspondences can deca done through my **telegram** account username : *@airminum*
