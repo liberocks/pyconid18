@@ -37,4 +37,4 @@ jupyter notebook
 
 ## :email: Contact 
 
-Any correspondences can deca done through my **telegram** account username : *@airminum*
+Any correspondences can be done through my **telegram** account username : *@airminum*
