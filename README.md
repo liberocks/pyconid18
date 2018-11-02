@@ -17,7 +17,7 @@ This tutorial is aimed to give gentle introduction of Sympy’s fundamental to e
 
 **Kalbis Institute, Jakarta**
 
-November 3, Session 4-5 
+November 3, Session 5
 
 
 

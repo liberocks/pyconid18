@@ -1,1 +1,5 @@
 venv/
+img/assets/
+.ipynb_checkpoints
+img/.ipynb_checkpoints
+slideshow.md
